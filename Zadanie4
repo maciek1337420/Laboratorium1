@@ -1,0 +1,5 @@
+Cena = 39.99
+Rabat = 0.2
+
+wynik = Cena - (Cena * Rabat)
+print("Cena po rabacie:", round(wynik, 2), "PLN")
