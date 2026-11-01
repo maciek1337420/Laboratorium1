@@ -1,41 +1,41 @@
-print(1 + 2)
+print(1 + 2) #DODAWANIE LICZB
 print(type(1 + 2))
 
-print(1 + 4.5)
+print(1 + 4.5) #DODAWANIE LICZBY CALKOWITEJ Z LICZBĄ ZMIENNOPRZECINKOWĄ
 print(type(1 + 4.5))
 
-print(3 / 2)
+print(3 / 2) #DZIELENIE LICZB
 print(type(3 / 2))
 
-print(4 / 2)
+print(4 / 2) #DZIELENIE LICZB
 print(type(4 / 2))
 
-print(3 // 2)
+print(3 // 2) #DZIELENIE BEZ RESZTKI
 print(type(3 // 2))
 
-print(-3 // 2)
+print(-3 // 2) #DZIELENIE BEZ RESZTKI
 print(type(-3 // 2))
 
-print(11 % 2)
+print(11 % 2) #WYLICZENIE RESZTKI Z DZIALANIA
 print(type(11 % 2))
 
-print(2 ** 10)
+print(2 ** 10) #POTEGOWANIE
 print(type(2 ** 10))
 
-print(8 ** (1 / 3))
+print(8 ** (1 / 3)) #POTĘGOWANIE PRZEZ UŁAMEK CO DAJE PIERWIASTKOWANIE 
 print(type(8 ** (1 / 3)))
 
-print(int(3.0))
+print(int(3.0)) #ZMIANA LICZBY ZMIENNOPRZECINKOWEJ NA CAŁKOWITĄ 
 print(type(int(3.0)))
 
-print(float(3))
+print(float(3)) #KONWERSJA LICZBY CAŁKOWITEJ NA TYP FLOAT 
 print(type(float(3)))
 
-print(float("3"))
+print(float("3")) #ZMIANA TEKSTU NA LICZBĘ Z KROPKĄ 
 print(type(float("3")))
 
-print(str(12.4))
+print(str(12.4)) #ZAMIENIA FLOAT NA TEKST
 print(type(str(12.4)))
 
-print(bool(0))
+print(bool(0)) #ZAMIENIA LICZBĘ NA FAŁSZ
 print(type(bool(0)))
